@@ -6,9 +6,15 @@ A^1-Homotopy Fabien Morel Type Theory (FMTT) is built on top of:
 3) A^1-indexed affine line,
 4) Localization modality to enforce A^1-contractibility,
 5) Suspension,
-6) Nisnevich Cover
-7) K(Z,n)
-8) 
+6) Nisnevich Cover,
+7) K(Z,n),
+8) N,Z,
+9) MGL (Motivic cobordism spectrum),
+10) BGL (Classifying space of the general linear group).
+It bridges type theory and motivic homotopy, offering a lightweight,
+extensible platform for formalizing algebraic geometry's homotopical
+landscape. Applications to motivic cohomology and stable
+homotopy categories are discussed.
 
 ## Intro
 
