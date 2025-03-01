@@ -11,7 +11,8 @@ A^1-Homotopy Fabien Morel Type Theory (FMTT) is built on top of:
 8) N,Z,
 9) MGL (Motivic cobordism spectrum),
 10) BGL (Classifying space of the general linear group).
-It bridges type theory and motivic homotopy, offering a lightweight,
+
+FMTT bridges type theory and motivic homotopy, offering a lightweight,
 extensible platform for formalizing algebraic geometry's homotopical
 landscape. Applications to motivic cohomology and stable
 homotopy categories are discussed.
